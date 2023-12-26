@@ -1,0 +1,189 @@
+Created With PLogger
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Application started. Press Ctrl+C to shut down.
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Hosting environment: Development
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Content root path: C:\Users\vovikus\Source\Repos\WebApplicationExample3\WebApplicationExample2
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:10/3/2023 12:05:14 AM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Application started. Press Ctrl+C to shut down.
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Hosting environment: Development
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Content root path: C:\Users\vovikus\Source\Repos\WebApplicationExample3\WebApplicationExample2
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:10/24/2023 10:58:43 PM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Files [:] T:10/24/2023 10:58:47 PM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Application started. Press Ctrl+C to shut down.
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Hosting environment: Development
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Content root path: C:\Users\vovikus\Source\Repos\WebApplicationExample3\WebApplicationExample2
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:10/24/2023 11:09:00 PM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Files [:] T:10/24/2023 11:09:02 PM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Application started. Press Ctrl+C to shut down.
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Hosting environment: Development
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Content root path: C:\Users\vovikus\Source\Repos\WebApplicationExample3\WebApplicationExample2
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:10/24/2023 11:16:38 PM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Files [:] T:10/24/2023 11:16:40 PM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Files/SaveFile [:] T:10/24/2023 11:16:41 PM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Files/SaveFile [:] T:10/24/2023 11:16:58 PM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Files/SaveFile [:] T:10/24/2023 11:18:57 PM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Application started. Press Ctrl+C to shut down.
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Hosting environment: Development
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Content root path: C:\Users\vovikus\Source\Repos\WebApplicationExample3\WebApplicationExample2
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:10/24/2023 11:28:50 PM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Files [:] T:10/24/2023 11:28:53 PM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Files/SaveFile [:] T:10/24/2023 11:28:54 PM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Files/SaveFile [:] T:10/24/2023 11:28:59 PM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Application started. Press Ctrl+C to shut down.
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Hosting environment: Development
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Content root path: C:\Users\vovikus\Source\Repos\WebApplicationExample3\WebApplicationExample2
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:10/24/2023 11:34:47 PM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Files [:] T:10/24/2023 11:37:00 PM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Files/SaveFile [:] T:10/24/2023 11:37:02 PM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Files/SaveFile [:] T:10/24/2023 11:37:06 PM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Files [:] T:10/24/2023 11:38:25 PM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Files/GetFile?fileName=WebApplicationExample2.Services.Models.FileListItemModel [:] T:10/24/2023 11:38:29 PM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Application started. Press Ctrl+C to shut down.
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Hosting environment: Development
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Content root path: C:\Users\vovikus\Source\Repos\WebApplicationExample3\WebApplicationExample2
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:10/24/2023 11:39:51 PM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Files [:] T:10/24/2023 11:43:05 PM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Files/ViewFile?fileName=launchSettings.json [:] T:10/24/2023 11:45:37 PM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Application started. Press Ctrl+C to shut down.
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Hosting environment: Development
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Content root path: C:\Users\vovikus\Source\Repos\WebApplicationExample3\WebApplicationExample2
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:10/25/2023 12:01:45 AM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Files [:] T:10/25/2023 12:06:50 AM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Application started. Press Ctrl+C to shut down.
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Hosting environment: Development
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Content root path: C:\Users\vovikus\Source\Repos\WebApplicationExample3\WebApplicationExample2
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:10/25/2023 12:07:24 AM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Files [:] T:10/25/2023 12:15:14 AM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Files/GetFile?fileName=launchSettings.json [:] T:10/25/2023 12:15:15 AM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Files/ViewFile?fileName=launchSettings.json [:] T:10/25/2023 12:15:19 AM, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Application started. Press Ctrl+C to shut down.
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Hosting environment: Development
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Content root path: C:\Users\Stringls\Desktop\WebApplicationExample5\WebApplicationExample2
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:26.12.2023 11:25:34, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Files [:] T:26.12.2023 11:25:38, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Home/Privacy [:] T:26.12.2023 11:25:38, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Files [:] T:26.12.2023 11:25:39, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Home/Privacy [:] T:26.12.2023 11:25:40, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:26.12.2023 11:25:41, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:26.12.2023 11:25:42, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Application started. Press Ctrl+C to shut down.
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Hosting environment: Development
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Content root path: C:\Users\Stringls\Desktop\WebApplicationExample5\WebApplicationExample2
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:26.12.2023 11:28:19, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Home/SetLanguage?returnUrl=%2F [:] T:26.12.2023 11:28:21, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:26.12.2023 11:28:21, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Home/SetLanguage?returnUrl=%2F [:] T:26.12.2023 11:28:23, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:26.12.2023 11:28:23, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Home/SetLanguage?returnUrl=%2F [:] T:26.12.2023 11:28:24, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:26.12.2023 11:28:24, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Home/SetLanguage?returnUrl=%2F [:] T:26.12.2023 11:28:25, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:26.12.2023 11:28:25, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Home/SetLanguage?returnUrl=%2F [:] T:26.12.2023 11:28:36, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:26.12.2023 11:28:36, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Application started. Press Ctrl+C to shut down.
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Hosting environment: Development
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Content root path: C:\Users\Stringls\Desktop\WebApplicationExample5\WebApplicationExample2
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:26.12.2023 11:28:49, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Application started. Press Ctrl+C to shut down.
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Hosting environment: Development
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Content root path: C:\Users\Stringls\Desktop\WebApplicationExample5\WebApplicationExample2
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:26.12.2023 11:29:12, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/Home/SetLanguage?returnUrl=%2F [:] T:26.12.2023 11:29:14, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:26.12.2023 11:29:14, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Application started. Press Ctrl+C to shut down.
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Hosting environment: Development
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Content root path: C:\Users\Stringls\Desktop\WebApplicationExample5\WebApplicationExample2
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:26.12.2023 11:29:46, IP:::1
