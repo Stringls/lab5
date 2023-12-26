@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
     <PackageReference Include="InvertedSoftware.PLogger.Core" Version="1.0.0" />
   </ItemGroup>
 

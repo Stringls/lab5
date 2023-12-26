@@ -1,7 +1,9 @@
-﻿using InvertedSoftware.PLogger.Core;
+﻿using FluentValidation;
+using InvertedSoftware.PLogger.Core;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.AspNetCore.Mvc.Razor;
 using System.Globalization;
+using WebApplicationExample2.Models;
 using WebApplicationExample5.Resources;
 using WebApplicationExample5.Services;
 
@@ -31,6 +33,8 @@ builder.Services.Configure<RequestLocalizationOptions>(options =>
 
 builder.Services.AddScoped<IMailService, MailService>();
 builder.Services.AddScoped<IFileService, FileService>();
+
+builder.Services.AddTransient<IValidator<Person>, PersonValidator>();
 
 var settings = new PLoggerSettings(builder.Configuration);
 builder.Logging.ClearProviders();

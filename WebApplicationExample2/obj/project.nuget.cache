@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "YRVlSxPxEw/3Mkfn2ti0rf7jLRgJDG1gJkMklDZvtOSGZ+/ccylt/0A5PS8gpu+jjtX24M/RhEcjAZyeWWH/Fg==",
+  "dgSpecHash": "szNrksmFabQEsvlS+V2G8q9uAo0IIvtBLdJT6D6reqD2Nzeem/5hfaO+uDU4iG8xJtJzXJ3nbSBqPI3TyIi+vg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Stringls\\Desktop\\WebApplicationExample5\\WebApplicationExample2\\WebApplicationExample2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stringls\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
+    "C:\\Users\\Stringls\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\Stringls\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Stringls\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\Stringls\\.nuget\\packages\\invertedsoftware.plogger.core\\1.0.0\\invertedsoftware.plogger.core.1.0.0.nupkg.sha512",
     "C:\\Users\\Stringls\\.nuget\\packages\\mailkit\\4.2.0\\mailkit.4.2.0.nupkg.sha512",
     "C:\\Users\\Stringls\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
