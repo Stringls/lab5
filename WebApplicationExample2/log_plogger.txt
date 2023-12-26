@@ -187,3 +187,23 @@ Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Inte
 Content root path: C:\Users\Stringls\Desktop\WebApplicationExample5\WebApplicationExample2
 Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
 https://localhost:44337/ [:] T:26.12.2023 11:29:46, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Application started. Press Ctrl+C to shut down.
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Hosting environment: Development
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Content root path: C:\Users\Stringls\Desktop\WebApplicationExample5\WebApplicationExample2
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:26.12.2023 11:52:19, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Application started. Press Ctrl+C to shut down.
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Hosting environment: Development
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Content root path: C:\Users\Stringls\Desktop\WebApplicationExample5\WebApplicationExample2
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:26.12.2023 11:57:39, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+https://localhost:44337/ [:] T:26.12.2023 11:57:50, IP:::1
+Information Level Message. EventID: 0 Message: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime
+Application is shutting down...
